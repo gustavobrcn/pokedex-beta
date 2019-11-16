@@ -1,0 +1,2 @@
+pokeball appears from dark screen and bounces
+start screen is a shaking pokeball that opens to the main page with white screen
